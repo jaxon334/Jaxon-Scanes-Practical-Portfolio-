@@ -1,0 +1,59 @@
+* {
+    margin: 0 auto;
+    text-align: center;
+}
+
+html {
+
+
+    
+
+    color: white;
+    font-family: inheritsans-serif;
+    font-size: 1.5em;
+
+}
+
+
+
+body {
+    height: 100vh;
+
+    background-color: #FF00FF;
+
+    color: #00000;
+}
+
+
+
+
+
+
+
+
+
+img {
+    width: 40vh;
+
+
+}
+
+
+ul {
+    display: inline-block;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
